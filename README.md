@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="banner.png" width="100%" alt="Jaideep AIML Banner"/>
+</div>
+
+<br/><div align="center">
 
 # Hi, I'm Jaideep 👋
 
